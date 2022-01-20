@@ -5,7 +5,7 @@ I am a software developer/coder and live in Blundez, Vorarlberg in Austria. I cu
 ## <img src="https://c.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="20px"> Achivements
 
 ### First place in the Austria wide Lehrlingshackaton in 2021!
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D22AQEguOIt9rYqdg/feedshare-shrink_800/0/1636647058690?e=1645660800&v=beta&t=S8sTuvXFIuByuzEEwn2SxW813Leef-B7ixl2RUdGDLE" width="200px">
+<img align="left" src="https://lehrlingshackathon.at/wp-content/uploads/2019/10/logo-codingday.png" width="200px">
 This competition was about programming a app for your smartphone. 
 
 With the help of Thunkable we programmed a app for Liebherr in less than 2 days.
@@ -15,7 +15,7 @@ The other teams of Liebherr also scored a first place in the Vorarlberg wide com
 <img src="https://c.tenor.com/1qOzjm8V_WEAAAAi/hrh-trophy.gif" width="20px">
 
 ### Passed the ioi2021 qualifikation round!
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D22AQEe5uafYyigZQ/feedshare-shrink_2048_1536/0/1640159131876?e=1645660800&v=beta&t=JQdhpGxS6A9zvPzF3OrB9JHroe5UZAqk21fTYsWhhPA" width="200px">
+<img align="left" src="https://ioi2022.id/wp-content/uploads/2021/02/WebsiteIOI_01022021_WebsiteFull-10.png" width="200px">
 The ioi is all about optimizing your algoritm as far as possible.
 
 In the qualification round we passed with a score of 286/300 points.
