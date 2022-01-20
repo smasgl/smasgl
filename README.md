@@ -14,7 +14,7 @@ The other teams of Liebherr also scored a first place in the Vorarlberg wide com
 
 <img src="https://c.tenor.com/1qOzjm8V_WEAAAAi/hrh-trophy.gif" width="20px">
 
-### Passed the ioi2021 qualifikation round!
+### Passed the ioi2022 qualifikation round!
 <img align="left" src="https://ioi2022.id/wp-content/uploads/2021/02/WebsiteIOI_01022021_WebsiteFull-10.png" width="200px">
 The ioi is all about optimizing your algoritm as far as possible.
 
