@@ -1,28 +1,10 @@
 # Hello, i am Simon! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">
 
-I am a software developer/coder and live in Blundez, Vorarlberg in Austria. I currently work at Liebherr in Nenzing as an apprentice in software development/coding.
+I am a software developer/coder and live in Vienna Austria. I currently study at TUW.
 
 ## <img src="https://c.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="20px"> Achivements
 
-### First place in the Austria wide Lehrlingshackaton in 2021!
-<img align="left" src="https://lehrlingshackathon.at/wp-content/uploads/2019/10/logo-codingday.png" width="200px">
-This competition was about programming a app for your smartphone. 
-
-With the help of Thunkable we programmed a app for Liebherr in less than 2 days.
-
-The other teams of Liebherr also scored a first place in the Vorarlberg wide competition.
-
-<img src="https://c.tenor.com/1qOzjm8V_WEAAAAi/hrh-trophy.gif" width="20px">
-
-### Passed the ioi2022 qualifikation round!
-<img align="left" src="https://ioi2022.id/wp-content/uploads/2021/02/WebsiteIOI_01022021_WebsiteFull-10.png" width="200px">
-The ioi is all about optimizing your algoritm as far as possible.
-
-In the qualification round we passed with a score of 286/300 points.
-
-You program the algorithms in C++ and have to solve a number of problems.
-
-<img src="https://c.tenor.com/HYH5YVs7FyMAAAAi/hilbert-curve.gif" width="40px">
+### Nothing...
 
 ## <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="20px"> GitHub Stats
 
